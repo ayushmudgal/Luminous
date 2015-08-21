@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8BF84A75-6355-4AB7-BD2D-3113F64A431F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Luminous</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>24BAA6D0B176754638204EACF78EB008442EAEC3</key>
+		<string>https://github.com/ayushmudgal/Luminous.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Luminous.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>24BAA6D0B176754638204EACF78EB008442EAEC3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ayushmudgal/Luminous.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>24BAA6D0B176754638204EACF78EB008442EAEC3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>24BAA6D0B176754638204EACF78EB008442EAEC3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Luminous</string>
+		</dict>
+	</array>
+</dict>
+</plist>
